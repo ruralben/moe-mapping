@@ -1,6 +1,17 @@
 {
  "worksheets": [
   {
+   "slug": "clinton-oklahoma",
+   "region": "Clinton, Oklahoma",
+   "url": "https://ruralben.github.io/moe-mapping/clinton-oklahoma/",
+   "wid": "rkntxmrv",
+   "georeferenced": true,
+   "submit": true,
+   "sample": false,
+   "published": "2026-11-24T15:43:10.646Z",
+   "updated": "2026-11-24T15:43:10.646Z"
+  },
+  {
    "slug": "cosmos-mn",
    "region": "Cosmos, MN",
    "url": "https://ruralben.github.io/moe-mapping/cosmos-mn/",
